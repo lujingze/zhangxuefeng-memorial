@@ -11,5 +11,6 @@ permalink: /public/
 
 - [索引链接](./索引链接.md)
 - [人物传记](./人物传记.md)
+- [经典语录]({{ '/docs/经典语录/' | relative_url }})
 - [经典视频]({{ '/docs/经典视频/' | relative_url }})
 - [图书著作]({{ '/docs/图书著作/' | relative_url }})
