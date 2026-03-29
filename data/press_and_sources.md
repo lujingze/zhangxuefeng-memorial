@@ -1,3 +1,10 @@
+---
+layout: default
+title: 报道与来源索引
+description: 纪念仓库当前使用的重要报道与资料来源。
+permalink: /data/press_and_sources/
+---
+
 # 报道与来源索引
 
 ## 重要报道与资料来源

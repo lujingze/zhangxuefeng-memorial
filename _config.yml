@@ -1,0 +1,6 @@
+title: 张雪峰纪念合集
+description: 收录张雪峰老师公开可核验的代表内容，作为纪念性索引、传记与专题整理站。
+markdown: kramdown
+kramdown:
+  input: GFM
+permalink: pretty

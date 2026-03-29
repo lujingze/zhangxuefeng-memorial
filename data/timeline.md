@@ -1,3 +1,10 @@
+---
+layout: default
+title: 时间线索引
+description: 张雪峰老师人物与作品时间线索引。
+permalink: /data/timeline/
+---
+
 # 时间线
 
 ## 人物与作品时间线

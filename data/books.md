@@ -1,3 +1,10 @@
+---
+layout: default
+title: 图书索引
+description: 张雪峰老师已收录图书索引。
+permalink: /data/books/
+---
+
 # 图书索引
 
 ## 已收录图书

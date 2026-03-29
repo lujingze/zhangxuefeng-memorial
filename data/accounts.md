@@ -1,3 +1,10 @@
+---
+layout: default
+title: 账号索引
+description: 张雪峰老师及团队公开账号索引。
+permalink: /data/accounts/
+---
+
 # 账号索引
 
 ## 官方与团队账号

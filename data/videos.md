@@ -1,3 +1,10 @@
+---
+layout: default
+title: 视频索引
+description: 张雪峰老师代表视频索引。
+permalink: /data/videos/
+---
+
 # 视频索引
 
 ## 代表视频
