@@ -144,6 +144,33 @@ a {
   border-left: 3px solid var(--accent-soft);
 }
 
+.hero-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 18px;
+}
+
+.button-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 140px;
+  padding: 11px 16px;
+  border-radius: 999px;
+  color: #fff;
+  text-decoration: none;
+  background: linear-gradient(135deg, var(--accent), #c56d56);
+  box-shadow: 0 16px 28px rgba(143, 47, 44, 0.22);
+}
+
+.button-link-muted {
+  color: var(--ink);
+  background: rgba(255, 255, 255, 0.82);
+  box-shadow: none;
+  border: 1px solid rgba(36, 31, 27, 0.1);
+}
+
 .hero-image {
   padding: 18px;
   border-radius: 28px;
@@ -198,6 +225,76 @@ a {
   border-radius: 22px;
   background: rgba(255, 255, 255, 0.62);
   border: 1px solid rgba(36, 31, 27, 0.08);
+}
+
+.stats-grid {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 16px;
+}
+
+.stat-card {
+  padding: 20px 16px;
+  border-radius: 22px;
+  text-align: center;
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.84), rgba(255, 247, 239, 0.84));
+  border: 1px solid rgba(36, 31, 27, 0.08);
+}
+
+.stat-card strong {
+  display: block;
+  margin-bottom: 4px;
+  color: var(--accent);
+  font-size: clamp(28px, 4vw, 40px);
+  line-height: 1;
+}
+
+.stat-card span {
+  color: var(--muted);
+  font-size: 14px;
+}
+
+.timeline-strip {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 16px;
+}
+
+.timeline-item {
+  position: relative;
+  padding: 20px 18px;
+  border-radius: 22px;
+  background: rgba(255, 255, 255, 0.65);
+  border: 1px solid rgba(36, 31, 27, 0.08);
+}
+
+.timeline-item::before {
+  content: "";
+  position: absolute;
+  top: 18px;
+  left: 18px;
+  width: 34px;
+  height: 3px;
+  border-radius: 999px;
+  background: linear-gradient(90deg, var(--accent), transparent);
+}
+
+.timeline-item h3 {
+  margin-top: 20px;
+  margin-bottom: 8px;
+}
+
+.timeline-item p {
+  margin: 0;
+  color: var(--muted);
+}
+
+.timeline-date {
+  color: var(--accent);
+  font-size: 12px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
 }
 
 .feature h3 {
@@ -258,7 +355,9 @@ a {
 @media (max-width: 900px) {
   .hero,
   .grid-2,
-  .grid-3 {
+  .grid-3,
+  .stats-grid,
+  .timeline-strip {
     grid-template-columns: 1fr;
   }
 
