@@ -1,0 +1,14 @@
+# 时间线
+
+## 人物与作品时间线
+
+| 日期 | 事件 | 核验级别 | 参考链接 | 备注 |
+| --- | --- | --- | --- | --- |
+| 1984-05-18 | 张雪峰出生于黑龙江省齐齐哈尔市富裕县 | secondary | <https://zh.wikipedia.org/wiki/%E5%BC%A0%E9%9B%AA%E5%B3%B0> | 基础人物信息，建议后续补权威人物简介页 |
+| 2016-06-01 | 凭借“7分钟解读34所985高校”一类讲座视频走红网络 | secondary | <https://zh.wikipedia.org/wiki/%E5%BC%A0%E9%9B%AA%E5%B3%B0> | 具体首发日期仍可继续核验 |
+| 2016-09-01 | 出版《你离考研成功，就差这本书》 | primary | <https://books.google.com/books/about/%E4%BD%A0%E7%A6%BB%E8%80%83%E7%A0%94%E6%88%90%E5%8A%9F_%E5%B0%B1%E5%B7%AE%E8%BF%99%E6%9C%AC%E4%B9%A6.html?id=IzRQswEACAAJ> | 首部代表图书 |
+| 2021-06-01 | 出版《选择比努力更重要》初版 | primary | <https://books.google.com/books/about/%E5%90%8D%E5%B8%88%E5%BC%A0%E9%9B%AA%E5%B3%B0%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E5%A1%AB%E6%8A%A5%E9%AB%98.html?id=_zdwzwEACAAJ> | 高考志愿方向代表作 |
+| 2023-08-04 | 官方号发布《互联网！我回来了！》 | primary | <https://www.bilibili.com/list/28152637?bvid=BV1b44y1w7Eo&oid=999330640> | 个人影响力与平台热度的重要节点 |
+| 2024-05-01 | 《选择比努力更重要》全新修订版公开可售 | primary | <https://read.douban.com/ebook/474862860/> | 适合放在著作年表 |
+| 2026-03-16 | 抖音主页公开检索显示该账号最新作品发布时间为 2026-03-16 | primary | <https://www.douyin.com/user/MS4wLjABAAAAtHXkrFr8fkv6ehPSw98yu2ZzwHR9iWziaOZFVQkCNy4> | 可作为公开平台最后更新节点之一 |
+| 2026-03-24 | 公开检索中的百科条目与媒体引用显示张雪峰于 2026-03-24 去世 | secondary | <https://zh.wikipedia.org/wiki/%E5%BC%A0%E9%9B%AA%E5%B3%B0> | 建议后续补公司讣告或权威媒体直链 |
